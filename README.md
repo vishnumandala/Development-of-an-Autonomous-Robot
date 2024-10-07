@@ -55,4 +55,4 @@ This project involves the design and implementation of an autonomous mobile mani
 ![](https://github.com/vishnumandala/Development-of-an-Autonomous-Robot/blob/main/Arena%203D.png)
 
 ## Progress Video
-The video documenting the process and the final result can be viewed at: https://youtu.be/_uw1MORqhX0?feature=shared
+The video documenting the process and the final result can be viewed at: https://youtu.be/YP5O4i1IcPo?si=AS23KIlMAMaIVgCZ
