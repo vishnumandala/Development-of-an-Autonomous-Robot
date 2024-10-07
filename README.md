@@ -1,4 +1,4 @@
-# Development-of-an-Autonomous-Robot
+# Development of an Autonomous Robot
 ## ENPM701 - Autonomous Robotics
 
 ## Overview
